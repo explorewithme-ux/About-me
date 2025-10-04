@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Pengalaman Hari Ini",
+    "date": "2025-10-05",
+    "content": "Hari ini aku belajar bikin blog otomatis pakai HTML, CSS, dan JSON. Jadi lebih mudah nambah artikel baru!"
+  },
+  {
+    "title": "Pemikiran Tentang Hidup",
+    "date": "2025-10-03",
+    "content": "Menurutku, hidup itu lebih indah kalau kita bisa menulis dan berbagi pikiran dengan orang lain."
+  },
+  {
+    "title": "Hal Baru yang Aku Coba",
+    "date": "2025-10-01",
+    "content": "Aku mencoba menulis rutin setiap hari. Walaupun sedikit, lama-lama pasti jadi kebiasaan baik."
+  }
+]
